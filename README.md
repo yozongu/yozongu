@@ -1,4 +1,8 @@
 ## Hi there 👋
+![alt text](profile.jpg)
+🎶 Interested in music and DJing
+📖 Currently learning Java, Python, C++, and system administration
+
 
 <!--
 **yozongu/yozongu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
