@@ -1,6 +1,9 @@
-## Hi there 👋
-![Alt text](profile.jpg){: width="50%" height="auto"}
-🎶 Interested in music and DJing
+## Hi I'm Phillip 👋
+
+<img src="profile.jpg" width="25%">
+
+🎶 Interest: Music, DJ, and coding 
+
 📖 Currently learning Java, Python, C++, and system administration
 
 
