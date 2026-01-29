@@ -1,5 +1,5 @@
 ## Hi there 👋
-![alt text](profile.jpg)
+![Alt text](profile.jpg){: width="50%" height="auto"}
 🎶 Interested in music and DJing
 📖 Currently learning Java, Python, C++, and system administration
 
