@@ -8,6 +8,7 @@
 
 📫 pdegu001@odu.edu
 
+👯 Open for collaboration
 <!--
 **yozongu/yozongu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
